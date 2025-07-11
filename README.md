@@ -30,7 +30,7 @@ Hey this is a simple and responsive weather application that I made during my **
    git clone https://github.com/Noor3800/CodeClauseInternship_WeatherApp.git
    cd CodeClauseInternship_WeatherApp
    
-2.Open index.html in your browser. That's it!
+2. Open index.html in your browser. That's it!
 
 ---
 
